@@ -1,5 +1,7 @@
-<!-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/i4jKn7itdV2Tvjzj6Y" width="100%" height="100%" style="position:absolute; align:center" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/spcity-i4jKn7itdV2Tvjzj6Y">via GIPHY</a></p> -->
+![](myname.gif)
 
-![Alt Text]("https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif")
+## Welcome to my github profile
+I'am Paola a software developer. I love be active in the dev community and share my "discoveries" with others this is why I like open source.
+I learned coding at![codebar London](https://codebar.io/) pair programming workshops, where I had the opportunity to share my knowledge and discuss with other professionals and student. 
 
-## Hello I am Paola.
+I recently started coaching HTML CSS and JS to beginners, each time it's so enriching.
