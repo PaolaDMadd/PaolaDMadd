@@ -1,6 +1,6 @@
 ![](myname640px.gif)
 
-<p  align="center"><img height="300" src = "https://github.com/PaolaDMadd/PaolaDMadd/blob/main/myname.gif"></p>
+<p  align="center"><img height="300" width="100%" src = "https://github.com/PaolaDMadd/PaolaDMadd/blob/main/myname.gif"></p>
 
 
 
