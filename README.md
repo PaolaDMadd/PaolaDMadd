@@ -1,4 +1,4 @@
-![](myname640.gif)
+![](myname640px.gif)
 
 ## Welcome to my github profile
 I'am Paola a software developer. I love be active in the dev community and share my "discoveries" with others this is why I like open source.
