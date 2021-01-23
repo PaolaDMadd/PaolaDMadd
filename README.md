@@ -1,8 +1,4 @@
-![](myname640px.gif)
-
-<p  align="center"><img height="300" width="100%" src = "https://github.com/PaolaDMadd/PaolaDMadd/blob/main/myname.gif"></p>
-
-
+<p  align="center"><img height="5%" width="95%" src = "https://github.com/PaolaDMadd/PaolaDMadd/blob/main/myname.gif"></p>
 
 ## Welcome to my github profile
 I'am Paola a software developer. I love be active in the dev community and share my "discoveries" with others this is why I like open source.
