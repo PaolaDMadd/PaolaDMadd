@@ -7,6 +7,8 @@ I learned coding at [codebar London](https://codebar.io/) pair programming works
 I recently started coaching HTML CSS and JS to beginners, each time it's so enriching.
 
 
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></p>
+<p  align="right"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></p>
 
-![PaolaDMadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaolaDMadd) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaolaDMadd&layout=compact&langs_count=4)](https://github.com/PaolaDMadd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaolaDMadd&layout=compact&langs_count=4)](https://github.com/PaolaDMadd/github-readme-stats)
+
+![PaolaDMadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaolaDMadd) 
