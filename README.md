@@ -4,7 +4,8 @@
 I'am Paola a full stack developer. I love be active in the dev community and share my "discoveries" with others this is why I like open source.
 I learned coding at [codebar London](https://codebar.io/) pair programming workshops, where I had the opportunity to share my knowledge and discuss with other professionals and student. 
 
-<img align="right"src = "https://github.com/PaolaDMadd/PaolaDMadd/blob/main/womancoder.gif">
+<img align="right" src="https://github.com/PaolaDMadd/PaolaDMadd/blob/main/womancoder.gif" />
+
 I recently started coaching HTML CSS and JS to beginners, each time it's so enriching.
 Empowering people is one of the most satisfying experience.
 
