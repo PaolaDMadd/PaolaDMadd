@@ -17,6 +17,7 @@ Proactive and ‘passionately curious’, I am now seeking a challenging role in
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaolaDMadd&layout=compact&langs_count=4)](https://github.com/PaolaDMadd/github-readme-stats)
 
+## Interests:
 In love with visual arts; I like to express my creative personality through painting and cooking.
 I have also started to write some articles on my experiences as coder.
 
@@ -25,4 +26,4 @@ I have also started to write some articles on my experiences as coder.
 - [Bootcamp-&-thoughts in the heat of the moment…](https://paoladm.medium.com/thoughts-in-the-heat-of-the-moment-372be6ea66)
 - [uncodebar 6.0 - No one can stop us!](https://medium.com/the-codelog/uncodebar-6-0-no-one-can-stop-us-5f55f853add9)
 
-![PaolaDMadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaolaDMadd&show_icons=true&theme=synthwave) ![PaolaDMadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaolaDMadd&show_icons=true&theme=synthwave&include_all_commits=true) 
+ ![PaolaDMadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaolaDMadd&show_icons=true&theme=synthwave&include_all_commits=true) 
